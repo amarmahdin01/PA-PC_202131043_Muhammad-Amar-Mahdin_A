@@ -1,4 +1,5 @@
 PROJEK UAS PENGOLAHAN CITRA A
+
 Perkenalkan saya Muhammad Amar Mahdin 202131043. Pada project ini saya mendapatkan judul DETEKSI PLAT NOMOR.
 
 Sebelum ke program, terlebih dahulu saya akan menjelaskan apa itu Deteksi Plat Nomor dan kegunannya.
